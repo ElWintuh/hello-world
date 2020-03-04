@@ -1,2 +1,3 @@
 # hello-world
-Es solo un repositorio mas
+
+Este es mi repositorio personal; mi primer repositorio para ser mas precisos.
